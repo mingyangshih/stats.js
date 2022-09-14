@@ -13,10 +13,10 @@ This class provides a simple info box that will help you monitor your code perfo
 
 ### Screenshots ###
 
-![fps.png](https://raw.githubusercontent.com/mrdoob/stats.js/master/files/fps.png)
-![ms.png](https://raw.githubusercontent.com/mrdoob/stats.js/master/files/ms.png)
-![mb.png](https://raw.githubusercontent.com/mrdoob/stats.js/master/files/mb.png)
-![custom.png](https://raw.githubusercontent.com/mrdoob/stats.js/master/files/custom.png)
+![fps.png](https://raw.githubusercontent.com/mingyangshih/stats.js/master/files/fps.png)
+![ms.png](https://raw.githubusercontent.com/mingyangshih/stats.js/master/files/ms.png)
+![mb.png](https://raw.githubusercontent.com/mingyangshih/stats.js/master/files/mb.png)
+![custom.png](https://raw.githubusercontent.com/mingyangshih/stats.js/master/files/custom.png)
 
 
 ### Installation ###
